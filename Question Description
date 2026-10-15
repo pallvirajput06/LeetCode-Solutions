@@ -1,1 +1,3 @@
 here we describe our array questions
+
+An array is a linear data structure used to store multiple elements under a single variable name. Each element can be accessed using an index. In most programming languages, array indexing starts from 0, meaning the first element is stored at index 0. Arrays make it easier to store, organize, search, and update data. They provide fast access to elements using indexes, usually in \(O(1)\) time. However, inserting or deleting elements in the middle of an array may require shifting other elements, which takes \(O(n)\) time. Arrays are widely used in programming for searching, sorting, mathematical calculations, and solving Data Structures and Algorithms (DSA) problems.
